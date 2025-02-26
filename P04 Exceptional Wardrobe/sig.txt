@@ -1,0 +1,2 @@
+tshirt,nike,10/10/2015,1
+Pants,Adidas,11/11/2014,1
